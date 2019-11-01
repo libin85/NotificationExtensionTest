@@ -1,0 +1,1115 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=SystemNative_StrErrorR
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_FStat2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ChMod
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_RmDir
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTime
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTimes
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_names
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_get_locale_country_code
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=xamarin_get_block_descriptor
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_int_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_int_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_int_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_int_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_Int64_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_Int64_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_Int64_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_Int64_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_int_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_int_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_Int64_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_Int64_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int_CGSize_nfloat_nfloat
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int_CGSize_nfloat_nfloat
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int_CGSize_nfloat_nfloat
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int_CGSize_nfloat_nfloat
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64_CGSize_nfloat_nfloat
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64_CGSize_nfloat_nfloat
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64_CGSize_nfloat_nfloat
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_NVector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_NVector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4_NVector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4_NVector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_int_int
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_int_int
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_Int64_Int64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_Int64_Int64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_nuint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_nuint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_stret_nuint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_stret_nuint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3d
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3d
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_float_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_float_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKBox
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKBox
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nuint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nuint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nuint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nuint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_nuint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_nuint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_nuint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_nuint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKQuad
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKQuad
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_int
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_int
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_Int64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_Int64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_ref_MPSImageHistogramInfo
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_ref_MPSImageHistogramInfo
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaterniond_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaterniond_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3d_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3d_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4d_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4d_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_MDLAxisAlignedBoundingBox_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_MDLAxisAlignedBoundingBox_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector2i_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector2i_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector2i_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector2i_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_float_IntPtr_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_float_IntPtr_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Matrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Matrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Matrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Matrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_NMatrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_UInt32_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_UInt32_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_int_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_int_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_int_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_Int64_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_Int64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_Int64
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_IntPtr_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_IntPtr_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_IntPtr_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_IntPtr_Double
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector4i_bool_bool_bool_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector4i_bool_bool_bool_bool
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_MDLVoxelIndexExtent2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_MDLVoxelIndexExtent2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_stret_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_stret_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector4i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector4i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector4i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector4i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Vector4i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Vector4i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Vector4i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Vector4i
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nint
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_1
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_2
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_3
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_4
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_5
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_6
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_7
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_8
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_9
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_init_nsthread
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_AcceptSecContext
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Wrap
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Unwrap
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetDomainSocketSizes
+	/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.Core.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

@@ -1,0 +1,23 @@
+--cache=/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache
+--sim=/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/bin/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/NotificationTestServiceExtension.appex
+--executable=NotificationTestServiceExtension
+ --extension
+ --debug
+ --nolink
+--sdkroot=/Applications/Xcode.app/Contents/Developer
+--sdk=13.1
+--targetver=13.1
+ --aot-options=-O=-float32
+ --http-message-handler=NSUrlSessionHandler
+ --abi=x86_64
+--symbollist=/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-symbols.list
+ --dsym=no
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
+ --target-framework=Xamarin.iOS,v1.0
+--root-assembly=/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/bin/iPhoneSimulator/Debug/NotificationTestServiceExtension.dll
+ -v -v -v -v

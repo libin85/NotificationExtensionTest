@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionCodesignProperties Include="NotificationTestServiceExtension.appex">
+      <CodesignAppExtensionInputs>/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/bin/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/NotificationTestServiceExtension.appex/MonoTouchDebugConfiguration.txt;/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/bin/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/NotificationTestServiceExtension.appex/Info.plist;/Users/libin/Projects/NotificationTest/NotificationTestServiceExtension/bin/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/NotificationTestServiceExtension.appex/Settings.bundle/Root.plist;</CodesignAppExtensionInputs>
+      <NativeExecutable>NotificationTestServiceExtension</NativeExecutable>
+      <CodesignAllocate>/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate</CodesignAllocate>
+      <DisableTimestamp>True</DisableTimestamp>
+      <Entitlements></Entitlements>
+      <ResourceRules></ResourceRules>
+      <Keychain></Keychain>
+      <LibrarySigningKey>-</LibrarySigningKey>
+      <SigningKey></SigningKey>
+      <ExtraArgs></ExtraArgs>
+    </_AppExtensionCodesignProperties>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BE6BE9C1-EE04-429E-A7BB-FE7264EF6472}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NotificationTest" expanded="True">
+            <Node name="NotificationTest" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="NotificationTest.iOS" expanded="True" />
+            <Node name="NotificationTestServiceExtension" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NotificationTest.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_api_28" />
+  <MonoDevelop.Ide.ItemProperties.NotificationTest FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NotificationTestServiceExtension FirstBuild="True" automaticSigning="False" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NotificationTest.iOS FirstBuild="True" automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EAA72B07-D5B3-4BF1-9527-7FC28C4C7D03" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

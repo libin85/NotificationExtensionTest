@@ -1,0 +1,13 @@
+/Users/libin/Projects/NotificationTest/NotificationTest/bin/Debug/netstandard2.0/NotificationTest.deps.json
+/Users/libin/Projects/NotificationTest/NotificationTest/bin/Debug/netstandard2.0/NotificationTest.dll
+/Users/libin/Projects/NotificationTest/NotificationTest/bin/Debug/netstandard2.0/ref/NotificationTest.dll
+/Users/libin/Projects/NotificationTest/NotificationTest/bin/Debug/netstandard2.0/NotificationTest.pdb
+/Users/libin/Projects/NotificationTest/NotificationTest/obj/Debug/netstandard2.0/NotificationTest.csprojAssemblyReference.cache
+/Users/libin/Projects/NotificationTest/NotificationTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/libin/Projects/NotificationTest/NotificationTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/libin/Projects/NotificationTest/NotificationTest/obj/Debug/netstandard2.0/NotificationTest.AssemblyInfoInputs.cache
+/Users/libin/Projects/NotificationTest/NotificationTest/obj/Debug/netstandard2.0/NotificationTest.AssemblyInfo.cs
+/Users/libin/Projects/NotificationTest/NotificationTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/libin/Projects/NotificationTest/NotificationTest/obj/Debug/netstandard2.0/NotificationTest.dll
+/Users/libin/Projects/NotificationTest/NotificationTest/obj/Debug/netstandard2.0/ref/NotificationTest.dll
+/Users/libin/Projects/NotificationTest/NotificationTest/obj/Debug/netstandard2.0/NotificationTest.pdb
